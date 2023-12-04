@@ -32,7 +32,7 @@ This will print the R2 Score and Mean Squared Error for the model.
 
 ### Results
 
-The R2 Score and Mean Squared Error will vary slightly due to random splitting of the data. However, you can expect to see an R2 Score around 0.6 and an MSE around 5.2.
+The R2 Score and Mean Squared Error will vary slightly due to random splitting of the data. However, you can expect to see an R2 Score around 0.57 and an MSE around 5.5.
 
 ### Interesting Inferences
 

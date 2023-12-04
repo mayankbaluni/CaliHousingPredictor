@@ -24,6 +24,10 @@ The code performs the following steps:
 python california_housing_lr.py
 ```
 
+You can install these dependencies with the following command:
+
+pip install -r requirements.txt
+
 This will print the R2 Score and Mean Squared Error for the model.
 
 ### Results

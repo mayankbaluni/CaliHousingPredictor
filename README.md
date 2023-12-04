@@ -51,5 +51,4 @@ This project serves as a starting point for exploring housing price prediction w
 
 This code is licensed under the MIT License. See the `LICENSE` file for details.
 
-I hope this README file is professional-looking, easy to understand, and detailed. Let me know if you have any questions!
 

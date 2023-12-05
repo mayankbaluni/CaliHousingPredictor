@@ -27,6 +27,9 @@ The code performs the following steps:
 python california_housing_lr.py
 ```
 
+![Program](https://github.com/mayankbaluni/CaliHousingPredictor/blob/main/command.png)
+
+
 You can install these dependencies with the following command:
 
 pip install -r requirements.txt

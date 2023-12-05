@@ -1,6 +1,6 @@
 ## California Housing Price Prediction with Linear Regression
 
-![Features Description](https://github.com/skp163/California_Housing_Price_Prediction/blob/main/Images/Feature%20Description.png)
+![Description](https://github.com/mayankbaluni/CaliHousingPredictor/blob/main/banner.png)
 
 
 This repository contains a simple and efficient implementation of a Linear Regression model for predicting housing prices in California using the popular California Housing dataset.

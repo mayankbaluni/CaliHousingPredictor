@@ -42,6 +42,8 @@ The R2 Score and Mean Squared Error will vary slightly due to random splitting o
 
 ### Interesting Inferences
 
+![Program](https://github.com/mayankbaluni/CaliHousingPredictor/blob/main/accuracy.png)
+
 - While the Linear Regression model achieves decent accuracy (R2 ~ 0.6), there's still room for improvement. Exploring other models or feature engineering could further enhance prediction accuracy.
 - The MSE suggests an average error of around $5,200 in price predictions. This may be acceptable for some applications, but for others, a more precise model might be necessary.
 
